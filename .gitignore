@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+**/bin/
+**/obj/
+**/out/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Logs
+*.log
+
+# Secrets
+**/secrets.json
+*.pfx
+*.key
+*.cert
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+*.sln.iml
+
+# Publish profiles
+**/Properties/PublishProfiles/
+
+# EF Core
+#migrations/   # (keep commented if you want migrations in Git)

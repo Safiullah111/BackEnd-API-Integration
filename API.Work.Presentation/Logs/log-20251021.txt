@@ -1,0 +1,15 @@
+2025-10-21 10:55:48.515 +05:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-10-21 10:55:49.129 +05:00 [INF] User profile is available. Using 'C:\Users\Lenovo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-10-21 10:55:49.902 +05:00 [INF] Now listening on: https://localhost:7238
+2025-10-21 10:55:49.904 +05:00 [INF] Now listening on: http://localhost:5286
+2025-10-21 10:55:50.029 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 10:55:50.031 +05:00 [INF] Hosting environment: Development
+2025-10-21 10:55:50.033 +05:00 [INF] Content root path: C:\Users\Lenovo\source\repos\API.Work\API.Work.Presentation
+2025-10-21 10:55:52.418 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7238/swagger/index.html - null null
+2025-10-21 10:55:52.851 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7238/swagger/index.html - 200 null text/html;charset=utf-8 441.5272ms
+2025-10-21 10:55:52.860 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - null null
+2025-10-21 10:55:52.860 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7238/_vs/browserLink - null null
+2025-10-21 10:55:52.898 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - 200 16527 application/javascript; charset=utf-8 38.2707ms
+2025-10-21 10:55:53.084 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7238/_vs/browserLink - 200 null text/javascript; charset=UTF-8 224.4261ms
+2025-10-21 10:55:53.180 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7238/swagger/v1/swagger.json - null null
+2025-10-21 10:55:53.251 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 70.9942ms
